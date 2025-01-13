@@ -1,6 +1,6 @@
 nome = 'Gustavo'
 sobrenome = 'Mabilia'
-idade = 43
+idade = 44
 ano_nascimento = (2024 - idade)
 maior_de_idade = idade >= 18
 altura_metros = 1.74
