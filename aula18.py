@@ -3,8 +3,8 @@
 
 condicao1 = False
 condicao2 = False
-condicao3 = True
-condicao4 = False
+condicao3 = False
+condicao4 = True
 
 if condicao1:
     print('Este é o codigo da condicao1')

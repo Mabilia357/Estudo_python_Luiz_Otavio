@@ -14,7 +14,7 @@ elif condicao3:
 elif condicao4:
     print('Codigo para condicao 4') 
 else:
-    print('nenhuma das condicoes foi satisfattoria')
+    print('nenhuma das condicoes foi satisfatoria')
 
 if 10 == 10:
     print('Outro if')

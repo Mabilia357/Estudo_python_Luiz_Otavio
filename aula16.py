@@ -1,5 +1,5 @@
 # if / elif      / else
-# se / / se nao se / se nao
+# se / se nao se / se nao
 entrada = input('Você que "entrar" ou "sair"? ')
 
 if entrada == 'entrar':
