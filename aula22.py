@@ -1,7 +1,7 @@
 # Operadores Lógicos
 # and (e) or (ou) not (nao)
 # and - Todas as condicoes precisam ser verdadeiras
-# Se qualquer valor for considerado falso,
+# Se qualquer valor for considerado falso, ou verdadeiro,
 # a expressão inteira será avaliada naquele valor
 # São considerados falsy (que já vimos)
 # 0, 0.0,  '' =  False
